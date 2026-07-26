@@ -1,7 +1,5 @@
-Synaptic [![Build Status](https://travis-ci.org/cazala/synaptic.svg?branch=master)](https://travis-ci.org/cazala/synaptic) [![Join the chat at https://synapticjs.slack.com](https://synaptic-slack.now.sh/badge.svg)](https://synaptic-slack.now.sh/)
+Synaptic
 ========
-
-## Important: [Synaptic 2.x](https://github.com/cazala/synaptic/issues/140) is in stage of discussion now! Feel free to participate
 
 Synaptic is a javascript neural network library for **node.js** and the **browser**, its generalized algorithm is architecture-free, so you can build and train basically any type of first order or even [second order neural network](http://en.wikipedia.org/wiki/Recurrent_neural_network#Second_Order_Recurrent_Neural_Network) architectures.
 
